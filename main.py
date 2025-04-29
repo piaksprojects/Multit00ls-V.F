@@ -111,7 +111,7 @@ menu = '''
 ┃                                     Made by _piak_ in 2025 for Piak's Project Discord server!                                                         ┃
 ┃                         + ────────────────────────────────────────────────────────────────────────────────────────────────────── +                    ┃
 ┃                         ║  (1) TOKEN AUTO LOGIN  X  (6) TOKEN DMALL   X   (11) DELETE WEBHOOK            (16) SERVER CLONER   X  ║                    ┃
-┃                         ║  (2) TOKEN NUKER       X  (7) TOKEN LEAVER  X   (12) SPAM WEBHOOK              (17) SERVER NUKER V2 X  ║                    ┃
+┃                         ║  (2) TOKEN NUKER          (7) TOKEN LEAVER  X   (12) SPAM WEBHOOK              (17) SERVER NUKER V2 X  ║                    ┃
 ┃                         ║  (3) TOKEN INFO           (8) TOKEN JOINER  X   (13) CREATE WEBHOOKS           (18) SERVER MASSDM   X  ║                    ┃
 ┃                         ║  (4) TOKEN GENERATOR   X  (9) TOKEN GRABBER X   (14) CREATE + SPAM WEBHOOKS X  (19) TIKTOK VIEWS    X  ║                    ┃
 ┃                         ║  (5) TOKEN CHECKER        (10) WEBHOOK INFO     (15) CHECK WEBHOOK    X        (20) SPOTIFY PREMIUM X  ║                    ┃
@@ -135,7 +135,7 @@ def main():
             premium()
         elif choice == "2":
             cls()
-            premium()
+            execute_script("token_nuker.py")
         elif choice == "3":
             cls()
             execute_script("token_info.py")
