@@ -10,6 +10,7 @@
 
 
 - 🔍 **T0k€n Info** — Affiche les infos du T0k€n
+- 🧨 **T0k€n Nuk€r** — Nuk€ un T0k€n
 - ✅ **T0k€n Checker** — Vérifie la validité des T0k€ns
 - 👤 **W€bh00k Info** — Montre les détails d’un W€bh00k
 - 🧹 **Delete W€bh00k** — Supprime un W€bh00k
