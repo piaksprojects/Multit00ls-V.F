@@ -31,8 +31,7 @@
 
 Voici un aperçu de l’interface en ligne de commande :
 
-![image](https://github.com/user-attachments/assets/594c7185-9f91-4add-ad97-be4affdbf7a9)
-
+![image](https://github.com/user-attachments/assets/0037d9b4-9737-432f-a2bd-c7a340a8b742)
 
 ---
 
